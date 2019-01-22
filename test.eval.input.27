@@ -1,0 +1,2 @@
+(apply + (list 3 6 4))
+(apply + (list 3 4) 5)

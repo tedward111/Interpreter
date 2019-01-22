@@ -1,0 +1,6 @@
+(define and lambda (factor1 factor2)
+	(if (factor1) ; hello world!
+		#t
+		factor2))
+		
+;; this should not be shown

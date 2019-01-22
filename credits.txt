@@ -1,0 +1,16 @@
+proj1
+We didn't get any help
+proj2
+We didn't get any help
+proj3
+We consulted a stackoverflow article (https://stackoverflow.com/questions/22621952/convert-char-to-string-in-c) to review how to convert characters to strings
+proj4
+We didn't get any help
+proj5
+We didn't get any help
+proj6
+We didn't get any help
+proj7
+We didn't get any help
+proj8
+Consulted the R5RS standard (http://www.schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-7.html#%_chap_4) for special form definitions.

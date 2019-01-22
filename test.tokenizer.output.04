@@ -1,0 +1,7 @@
+(:open
+seven:symbol
+(:open
+five:symbol
+):close
+two:symbol
+):close

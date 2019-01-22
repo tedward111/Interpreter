@@ -1,0 +1,4 @@
+(define x
+(lambda () 52))
+
+x

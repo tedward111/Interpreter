@@ -1,0 +1,3 @@
+(define xab (lambda (b) (+ b 2)))
+
+(xab 3)

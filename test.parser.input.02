@@ -1,0 +1,5 @@
+(a b c (d e f (g h i)))
+(())
+(lambda () ("something" on something))
+
+"this should be in double quotes"

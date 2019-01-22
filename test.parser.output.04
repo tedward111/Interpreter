@@ -1,0 +1,1 @@
+(define and lambda (factor1 factor2) (if (factor1) #t factor2))

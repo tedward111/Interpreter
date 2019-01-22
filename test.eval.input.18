@@ -1,0 +1,7 @@
+(define x 35)
+
+(set! x 42)
+x
+
+(let ((x 23)) (set! x 251) x)
+x

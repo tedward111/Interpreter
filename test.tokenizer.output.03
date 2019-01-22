@@ -1,0 +1,11 @@
+(:open
+define:symbol
+x:symbol
+(:open
+lambda:symbol
+(:open
+):close
+52:integer
+):close
+):close
+x:symbol

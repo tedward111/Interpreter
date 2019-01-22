@@ -1,0 +1,5 @@
+(define x 6)
+(define y (lambda (x) x))
+(define z (lambda () 7))
+(y (z))
+(y x)

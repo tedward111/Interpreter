@@ -1,0 +1,4 @@
+(define variadic (lambda args (car args)))
+(variadic 4)
+(variadic 4 5 6)
+(apply variadic (quote (6)))

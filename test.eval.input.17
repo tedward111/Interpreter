@@ -1,0 +1,12 @@
+(let* ((x 2) (y (+ x 2))) y)
+
+(letrec ((addOne
+          (lambda (n)
+            (+ n 1)))
+         (addTwo
+          (lambda (n)
+            (+ (addOne n) 1)))
+         (addThree
+           (lambda (n)
+            (+ (addTwo n) 1))))
+  (addThree 1))

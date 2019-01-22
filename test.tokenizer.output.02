@@ -1,0 +1,13 @@
+(:open
++:symbol
+x2:symbol
+(:open
++:symbol
+(:open
+quote:symbol
+x:symbol
+):close
+"foo;; still a string":string
+23.200000:double
+):close
+):close

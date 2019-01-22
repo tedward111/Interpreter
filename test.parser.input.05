@@ -1,0 +1,6 @@
+(define map
+  (lambda (f lst)
+    (if (null? lst)
+        lst
+        (cons (f (car lst))
+              (map f (cdr lst))))))

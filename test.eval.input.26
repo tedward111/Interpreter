@@ -1,0 +1,5 @@
+(pair? '(a 'str))
+(pair? '('() b c))
+(pair? '())
+(pair? 4)
+(pair? 4 7)
